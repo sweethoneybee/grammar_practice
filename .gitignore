@@ -1,3 +1,5 @@
 ## Ignore File ##
 
+*.exe
+
 .vscode/
